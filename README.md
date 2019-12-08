@@ -13,3 +13,7 @@ Lab 2. **Launch** an Inf1 Instance, **install** Neuron run-time and development 
 Lab 3. **Compile and Launch** a load test run on Inf1 Instance.   
 Lab 4. **Debug and Profile** your model on Inf1 Instance. 
 
+## Slides:
+
+Reinvent workshop slides at at: [slides Directory](./slides)
+
