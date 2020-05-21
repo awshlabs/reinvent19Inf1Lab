@@ -1,4 +1,6 @@
-# Reinvent Inf1 Lab: Hands-on Deep Learning Inference with Amazon EC2 Inf1 Instance
+# Reinvent Inf1 Lab: Hands-on Deep Learning Inference with Amazon EC2 Inf1 Instance  
+
+>Note: We simplified this lab into a new repository.  https://github.com/awshlabs/Jul2020-Inf1Lab 
 
 ## Abstract:
 
